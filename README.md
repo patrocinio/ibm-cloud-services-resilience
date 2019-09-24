@@ -25,3 +25,4 @@ Other documentation:
 * [Build resilient applications on the cloud](https://www.ibm.com/cloud/garage/architectures/resilience/allresiliencesolutions)
 * [Hybrid integration for solutions that span environments](https://www.ibm.com/cloud/garage/architectures/hybridIntegration/hybrid_dr_microservices)
 * [Hybrid integration for solutions that span environments](https://www.ibm.com/cloud/garage/architectures/hybridIntegration/hybrid_connectivity)
+* [Strategies for resilient applications](https://cloud.ibm.com/docs/tutorials?topic=solution-tutorials-strategies-for-resilient-applications#strategies-for-resilient-applications)
